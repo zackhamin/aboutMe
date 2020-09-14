@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">aboutMeApp</string>
     <string name="name">Ishaq Amin</string>
+    <string name="yellow_star">Yellow Star Image</string>
+    <string name="bio">Hi. Welcome to my App! \n My name is Zack and I love to learn new
+                        technologies. \n Right now I am learning Android and the Kotlin programming
+                        language. \n
+                        I will be learning this language for at-least the next six weeks. Hopefully,
+                        though I will be getting a new job and earning my degree and then my masters.
+
+                        I have worked with Swift, some Java and I have touched on Javascript and Node.js.
+                        Although, I prefer mobile and backend development over web and front end.
+                        I will always pick mobile and backend dev over anything else.\n
+
+                        I have worked with docker and containers. I use Jira and I work in Scrum and\n
+                        with agile methodologies. I would like to continue my learning, and learn more about
+                        algorithms and how we can use them to influence the world in a better way.
+    </string>
 </resources>
